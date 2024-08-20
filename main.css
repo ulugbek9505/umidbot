@@ -1,0 +1,49 @@
+.bola{
+    width: 554px;
+    height: 452px;
+    background-color: red;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.header{
+    padding-top: 30px;
+}
+.item{
+    color: black;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700px;
+    line-height: 39px;
+    letter-spacing: 0;
+    text-align: left;
+}
+.title{
+    color: black;
+    font-family: Inter;
+    line-height: 77px;
+    letter-spacing: 0;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.bola{
+    color: white;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700px;
+    line-height: 77px;
+    letter-spacing: 0;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 558px;
+    height: 452px;
+    background-color: red;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+}
